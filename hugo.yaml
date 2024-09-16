@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://ustas-eth.github.io/   
 languageCode: en-us
 title: Ustas Mind
 theme: PaperMod
@@ -18,8 +18,15 @@ markup:
       attribute:
         block: true
         title: true
+menu:
+  main:
+    - identifier: categories
+      name: About
+      url: /posts/hello-world/
+      weight: 10
 
 params:
+  ShareButtons: ["linkedin", "twitter"]
   production: true
 
   title: Ustas Mind
@@ -32,6 +39,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true

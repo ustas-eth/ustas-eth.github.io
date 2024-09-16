@@ -6,6 +6,7 @@ title: "Daily Glider"
 
 ## What Is Glider
 
+
 It's a security/research tool that lets you query multiple contracts on EVM blockchains at once by certain logic, parameters, dependencies, variable names, or anything else you can think of.
 
 In terms of traditional private audits (companies like Trail of Bits), bug bounties (like Immunefi), and public contests (like Code4rena), Glider differentiates because its purpose is to act on scale, while they only provide security to a researcher's chosen project. With only one effective Glider query (aka glide) and a good negotiation team, you can contact tens or hundreds of projects that share some vulnerability.
