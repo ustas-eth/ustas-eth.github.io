@@ -1,7 +1,7 @@
 baseURL: https://ustas-eth.github.io/   
 languageCode: en-us
 title: Ustas Mind
-theme: PaperMod
+theme: PaperModB
 
 enableRobotsTXT: true
 buildDrafts: false
