@@ -2,8 +2,6 @@
 title: "Daily Glider"
 ---
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/ustas-eth/daily-glider) ![GitHub Repo stars](https://img.shields.io/github/stars/ustas-eth/daily-glider) ![GitHub License](https://img.shields.io/github/license/ustas-eth/daily-glider)
-
 ### A personal blog for [Glider](https://glide.r.xyz/) queries, tips, and guides.
 
 ## What Is Glider
@@ -29,18 +27,18 @@ Otherwise, start with [this awesome repo](https://github.com/OffcierCia/DeFi-Dev
 
 ## Articles
 
-1. [Get Started](./articles/get-started/README.md)
-2. [Limit and Offset](./articles/limit-and-offset/README.md)
-3. [Arbitrary Logic](./articles/arbitrary-logic/README.md)
-4. [Boosting the declarative part](./articles/boosting-declarative-part/README.md)
-5. [Debug Technique](./articles/debug-technique/README.md)
-6. [Functions](./articles/functions/README.md)
-7. [Instructions](./articles/instructions/README.md)
-8. [Contracts](./articles/contracts/README.md)
-9. [Setup and Writing Style](./articles/setup-and-style/README.md)
-10. [Contract](./articles/contract/README.md)
-11. [Function](./articles/function/README.md)
-12. [Instruction](./articles/instruction/README.md)
-13. [Low-Level Data (part 1)](./articles/low-level-data-1/README.md)
-14. [Low-Level Data (part 2)](./articles/low-level-data-2/README.md)
-15. [Handy Scripts and SQL Queries](./articles/handy-scripts/README.md)
+1. [Get Started](./get-started)
+2. [Limit and Offset](./limit-and-offset)
+3. [Arbitrary Logic](./arbitrary-logic)
+4. [Boosting the declarative part](./boosting-declarative-part)
+5. [Debug Technique](./debug-technique)
+6. [Functions](./functions)
+7. [Instructions](./instructions)
+8. [Contracts](./contracts)
+9. [Setup and Writing Style](./setup-and-style)
+10. [Contract](./contract)
+11. [Function](./function)
+12. [Instruction](./instruction)
+13. [Low-Level Data (part 1)](./low-level-data-1)
+14. [Low-Level Data (part 2)](./low-level-data-2)
+15. [Handy Scripts and SQL Queries](./handy-scripts)

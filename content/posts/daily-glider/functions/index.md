@@ -1,9 +1,8 @@
 ---
 title: "Functions"
 ---
-# Functions
 
-The second element in the declarative part's [hierarchy](../boosting-declarative-part/README.md#boosting-the-declarative-part), `Functions`.
+The second element in the declarative part's [hierarchy](../boosting-declarative-part#boosting-the-declarative-part), `Functions`.
 
 With `Functions`, you can perform filtration by:
 
@@ -68,4 +67,4 @@ You can apply different combinations. The query will return nothing if there is 
 
 See the complete list of properties in the [documentation](https://glide.gitbook.io/main/api/callables/methodprop).
 
-## Read next: [Instructions](../instructions/README.md)
+## Read next: [Instructions](../instructions)

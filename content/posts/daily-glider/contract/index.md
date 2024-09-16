@@ -1,13 +1,12 @@
 ---
 title: "Contract"
 ---
-# Contract
 
 Now that we're done with the easy stuff, let's dive into complex arbitrary code. From top to bottom, we'll start with the `Contract` object.
 
 ## Methods
 
-Consider the following example from the [article](../contracts/README.md) about `Contracts`:
+Consider the following example from the [article](../contracts) about `Contracts`:
 
 ```python
 from glider import *
@@ -115,4 +114,4 @@ def query():
 
 > Don't forget to add `.exec()` after these methods because they return `Contracts` too. It's the same as with the declarative query in the beggining of glides, you can change the limit and the offset or add more filtration and descend to functions/instructions.
 
-## Read next: [Function](../function/README.md)
+## Read next: [Function](../function)

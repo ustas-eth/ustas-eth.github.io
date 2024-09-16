@@ -1,9 +1,8 @@
 ---
 title: "Limit and Offset"
 ---
-# Limit and offset
 
-Let's take the query from the [previous article](../get-started/README.md) and change the name we're searching for to something more useful:
+Let's take the query from the [previous article](../get-started) and change the name we're searching for to something more useful:
 
 ```python
 from glider import *
@@ -58,4 +57,4 @@ Imagine you have a total pool of 4000 contracts:
 
 These parameters are very handy in debugging when unsure what contract is causing an error.
 
-## Read next: [Arbitrary Logic](../arbitrary-logic/README.md)
+## Read next: [Arbitrary Logic](../arbitrary-logic)

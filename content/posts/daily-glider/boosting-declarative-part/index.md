@@ -1,7 +1,6 @@
 ---
 title: "Boosting the declarative part"
 ---
-# Boosting the declarative part
 
 The declarative DB query is so much more than just the `Contracts` object!
 
@@ -98,4 +97,4 @@ I have a few tips for you when it comes to the performance during combinations:
 
 Mix and experiment!
 
-## Read next: [Debug Technique](../debug-technique/README.md)
+## Read next: [Debug Technique](../debug-technique)

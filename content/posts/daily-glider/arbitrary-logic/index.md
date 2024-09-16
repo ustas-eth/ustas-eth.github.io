@@ -1,7 +1,6 @@
 ---
 title: "Arbitrary Logic"
 ---
-# Arbitrary Logic
 
 We're continuing to modify the glide:
 
@@ -16,7 +15,7 @@ def query():
 
 This time, we're going to add more logic to it besides the initial request to the DB.
 
-`contracts` variable contains `List[Contract]`, remember? What we can do is loop through the contracts, as was mentioned in [Get Started](../get-started/README.md), getting some properties.
+`contracts` variable contains `List[Contract]`, remember? What we can do is loop through the contracts, as was mentioned in [Get Started](../get-started), getting some properties.
 
 ## Modifications
 
@@ -81,7 +80,7 @@ As you can see in the documentation, the method returns `List[Event]` type. I'll
 1. Save the events to a new variable.
 2. Loop through again.
 3. Call one of the `Event` properties or methods ([docs](https://glide.gitbook.io/main/api/event)) to get any serializable value, like `.name`.
-4. Change the return statement using the trick from [Get Started](../get-started/README.md)
+4. Change the return statement using the trick from [Get Started](../get-started)
 
 ```python
 from glider import *
@@ -104,4 +103,4 @@ And our beautiful glide is done! It'll output all the event names from the first
 
 ![Result](./media/result.png)
 
-## Read next: [Boosting the declarative part](../boosting-declarative-part/README.md)
+## Read next: [Boosting the declarative part](../boosting-declarative-part)

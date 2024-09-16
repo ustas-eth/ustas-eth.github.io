@@ -1,7 +1,6 @@
 ---
 title: "Handy Scripts and SQL Queries"
 ---
-# Handy Scripts and SQL Queries
 
 I've made a couple of queries to help you find valuable contracts in the Glider output because it can be lengthy.
 

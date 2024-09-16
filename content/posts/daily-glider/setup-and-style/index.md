@@ -1,7 +1,6 @@
 ---
 title: "Setup and Writing Style"
 ---
-# Setup and Writing Style
 
 Today, we will talk about the maintainability of your glides.
 
@@ -110,4 +109,4 @@ def process(instructions):
 
 ```
 
-## Read next: [Contract](../contract/README.md)
+## Read next: [Contract](../contract)

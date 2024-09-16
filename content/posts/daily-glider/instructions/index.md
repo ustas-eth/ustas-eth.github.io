@@ -1,7 +1,6 @@
 ---
 title: "Instructions"
 ---
-# Instructions
 
 `Instructions` and its twin `Instruction` are perhaps the most complex objects in Glider, with the most methods, because they represent the never-ending combinations of Solidity calls, calculations, variable assignments, conditions, etc.
 
@@ -55,7 +54,7 @@ function transferFromERC20(IERC20 _token,uint256 _amount)
 
 I have no idea what this example is supposed to do, why they use payable, why there's a redundant balance check :D But we can try to get the contract's source code; it's quite easy even without Etherscan (Kovan is deprecated).
 
-Remember the [Debug Technique](../debug-technique/README.md)? Well, our contract is located on offset 1, so we have to change the `.exec()`, plus add a `print()` to the arbitrary part where we will first step up to the parent function and then to the contract, getting its source code:
+Remember the [Debug Technique](../debug-technique)? Well, our contract is located on offset 1, so we have to change the `.exec()`, plus add a `print()` to the arbitrary part where we will first step up to the parent function and then to the contract, getting its source code:
 
 ```python
 from glider import *
@@ -99,4 +98,4 @@ function transferERC20(
 
 And now I want to find them on the mainnet!
 
-## Read next: [Contracts](../contracts/README.md)
+## Read next: [Contracts](../contracts)

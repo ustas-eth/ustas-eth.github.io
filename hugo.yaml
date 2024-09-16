@@ -12,14 +12,21 @@ minify:
   disableXML: true
   minifyOutput: true
 
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+
 params:
   production: true
 
   title: Ustas Mind
   description: The insides of me
 
-  twitter: ustas-eth
-  github: 
+  twitter: ustas_eth
+  github: ustas-eth
   
   hideFooter: true
 

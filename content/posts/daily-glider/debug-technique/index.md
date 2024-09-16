@@ -1,7 +1,6 @@
 ---
 title: "Debug Technique"
 ---
-# Debug Technique
 
 Errors are frustrating and can cause aggression and violence towards your computer. Today, we'll talk about a few methods of their location and correction.
 
@@ -44,7 +43,7 @@ Step by step:
 
 One of the most useful functions is `print()`, which obviously prints objects using the default output. It allows you to quickly look up what type of object you are trying to deal with or return things immediately without temporary variables.
 
-For example, look at one of the previous glides from [Arbitrary Logic](../arbitrary-logic/README.md), modified to print instead of appending to the result array:
+For example, look at one of the previous glides from [Arbitrary Logic](../arbitrary-logic), modified to print instead of appending to the result array:
 
 ```python
 from glider import *
@@ -127,4 +126,4 @@ You can also utilize Python's try/except pattern instead of the limit changes, b
         return True
 ```
 
-## Read next: [Functions](../functions/README.md)
+## Read next: [Functions](../functions)

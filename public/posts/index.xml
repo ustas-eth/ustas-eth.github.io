@@ -8,12 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Daily Glider</title>
-      <link>http://localhost:1313/posts/daily-glider/</link>
+      <title>Low-Level Data (part 2)</title>
+      <link>http://localhost:1313/posts/daily-glider/low-level-data-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/daily-glider/</guid>
-      <description>A personal blog for Glider queries, tips, and guides. What Is Glider It&amp;rsquo;s a security/research tool that lets you query multiple contracts on EVM blockchains at once by certain logic, parameters, dependencies, variable names, or anything else you can think of.
-In terms of traditional private audits (companies like Trail of Bits), bug bounties (like Immunefi), and public contests (like Code4rena), Glider differentiates because its purpose is to act on scale, while they only provide security to a researcher&amp;rsquo;s chosen project.</description>
+      <guid>http://localhost:1313/posts/daily-glider/low-level-data-2/</guid>
+      <description>UPD. The property was deprecated
+Continuing yesterday&amp;rsquo;s article, today we&amp;rsquo;ll talk about the .instruction_data property of an Instruction. I find it very helpful when dealing with instructions, and I use it a lot. The property is quite complex, though; sometimes, it&amp;rsquo;s not very obvious how to process the information it gives.
+instruction_data The property contains all the low-level information about an instruction&amp;rsquo;s representation in Glider. This includes IRs, callees, operands, used variables, etc.</description>
     </item>
   </channel>
 </rss>

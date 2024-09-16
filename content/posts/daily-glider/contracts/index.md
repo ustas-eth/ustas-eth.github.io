@@ -1,7 +1,6 @@
 ---
 title: "Contracts"
 ---
-# Contracts
 
 We've covered the object a little in the previous articles, so you should already be quite familiar with it.
 
@@ -79,4 +78,4 @@ def query():
 
 ```
 
-## Read next: [Setup and Writing Style](../setup-and-style/README.md)
+## Read next: [Setup and Writing Style](../setup-and-style)

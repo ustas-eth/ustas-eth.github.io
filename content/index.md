@@ -1,11 +1,7 @@
 # Hello, it's /ʲustɑs/
 
-- rollups
-- zk-proofs
 - security research
-- 🌿 ustas.len
-
-[asd](/posts/hello-world)
-[asd](/posts/daily-glider)
-[asd](/posts/zk-bootcamp)
-
+- [🌿 ustas.lens](https://hey.xyz/u/ustas)
+- [about me](/posts/hello-world)
+- [daily glider](/posts/daily-glider)
+- [zk bootcamp](/posts/zk-bootcamp)

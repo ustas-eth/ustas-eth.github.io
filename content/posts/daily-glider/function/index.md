@@ -1,7 +1,6 @@
 ---
 title: "Function"
 ---
-# Function
 
 Good day to learn about the `Function` methods, isn't it? `Function` is the second of our fundamental trio. It can be used to:
 
@@ -88,4 +87,4 @@ The glide is unfinished because of the empty `check_requirements()` in the end. 
 
 You can try to modify it and finish the function, I don't mind, just show me what it looks like afterward :)
 
-## Read next: [Instruction](../instruction/README.md)
+## Read next: [Instruction](../instruction)

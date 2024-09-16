@@ -1,10 +1,9 @@
 ---
 title: "Low-Level Data (part 2)"
 ---
-# Low-Level Data (part 2)
 
-> [!WARNING]
-> UPD. The propery was deprecated
+<p>UPD. The property was deprecated</p>
+
 
 Continuing yesterday's article, today we'll talk about the `.instruction_data` property of an `Instruction`. I find it very helpful when dealing with instructions, and I use it a lot. The property is quite complex, though; sometimes, it's not very obvious how to process the information it gives.
 
@@ -163,4 +162,4 @@ Also, try to change the glide to something more precise, like getting all `Merkl
 
 This will help you understand how to generalize your code for different contexts.
 
-## Read next: [Handy Scripts and SQL Queries](../handy-scripts/README.md)
+## Read next: [Handy Scripts and SQL Queries](../handy-scripts)

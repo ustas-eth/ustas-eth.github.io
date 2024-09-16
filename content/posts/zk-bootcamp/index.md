@@ -1,9 +1,9 @@
 ---
 title: "zkEVM Bootcamp"
-
 ---
 
-# [zkEVM Bootcamp](https://www.encode.club/zksync-zkevm-bootcamp)
+[by Encode Club and zkSync](https://www.encode.club/zksync-zkevm-bootcamp)
+
 This repo contains my solutions to the homework assigned in the bootcamp and notes.
 
 - [zkEVM Bootcamp](#zkevm-bootcamp)

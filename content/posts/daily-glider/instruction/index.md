@@ -1,7 +1,6 @@
 ---
 title: "Instruction"
 ---
-# Instruction
 
 The last of the trio, `Instruction`, is another huge class with 44 methods in total + 5 from its child classes (there will be more!). This here is where you'll spend most of your time when you write complex glides, trying to generalize the way your code processes different combinations of Solidity instructions expressed through the Glider's objects.
 
@@ -98,4 +97,4 @@ def query():
 
 I wrote it to show the difference between `.get_callee_values()` and `.get_operands()`. You can play a little and uncomment the external calls filter or add another one to see the difference in instruction types and their operands/callees. Change the offset to see other entries.
 
-## Read next: [Low-Level Data (part 1)](../low-level-data-1/README.md)
+## Read next: [Low-Level Data (part 1)](../low-level-data-1)
