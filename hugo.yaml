@@ -1,4 +1,6 @@
-baseURL: https://ustas-eth.github.io/   
+baseURL: "https://ustas.eth.limo"
+relativeurls: true
+
 languageCode: en-us
 title: Ustas Mind
 theme: PaperMod
