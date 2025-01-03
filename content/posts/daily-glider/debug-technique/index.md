@@ -1,6 +1,7 @@
 ---
 title: "Debug Technique"
 weight: 5
+date: "2024-03-27T00:00:00.000Z"
 ---
 
 Errors are frustrating and can cause aggression and violence towards your computer. Today, we'll talk about a few methods of their location and correction.

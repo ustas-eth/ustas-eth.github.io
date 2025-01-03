@@ -1,9 +1,8 @@
 ---
 title: "Day 15"
-weight: 15
+weight: 115
 ---
 
-## Day 15
 ### Overview of Proving Systems
 In this lesson, we repeated some parts from the previous ones, like the history of ZKP, trusted setup, SNARK vs STARK, etc. 
 

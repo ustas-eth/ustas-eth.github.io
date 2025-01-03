@@ -1,9 +1,8 @@
 ---
 title: "Day 21"
-weight: 21
+weight: 121
 ---
 
-## Day 21
 ### Formal Verification
 Today's topic was about verifying the correctness of a proving system or a circuit with formal verification. This technique is increasingly popular and has stronger guarantees than static analysis or fuzzing.
 

@@ -1,9 +1,8 @@
 ---
 title: "Day 20"
-weight: 20
+weight: 120
 ---
 
-## Day 20
 ### ZKML
 You all know what ChatGPT or Bard is; no news here, I guess. You've probably also heard about how these models are trained. During the process, the neural networks of the machines are adjusted. Each node has its weight. Each iteration can change these weights.
 
@@ -21,5 +20,5 @@ Read more in this article: https://medium.com/@ModulusLabs/chapter-5-the-cost-of
 
 #### The Ecosystem
 Read more about each project [here](https://github.com/zkml-community/awesome-zkml).
-![ZKML](zkml-media/zkml-ecosystem.jpeg)
+![ZKML](zkml-../media/zkml-ecosystem.jpeg)
 

@@ -1,6 +1,7 @@
 ---
 title: "Get Started"
 weight: 1
+date: "2024-03-22T00:00:00.000Z"
 ---
 
 Alright, straight to business?

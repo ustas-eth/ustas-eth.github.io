@@ -1,13 +1,12 @@
 ---
 title: "Day 14"
-weight: 14
+weight: 114
 ---
 
-## Day 14
 ### Presentation by Porter Adams
 Today was a less formal lesson where I finally had an opportunity to flex some knowledge because I've spent two weeks trying to figure out how zkSync works in the recent C4 contest :D
 
-![Porter](media/zkporter.png)
+![Porter](../media/zkporter.png)
 
 We've talked briefly about things that we previously learned in the other lessons but from a different perspective.
 More interestingly, we discussed the security aspects of zk rollups and many of the common concerns that developers in the space are trying to solve:

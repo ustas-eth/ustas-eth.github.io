@@ -1,9 +1,8 @@
 ---
 title: "Day 13"
-weight: 13
+weight: 113
 ---
 
-## Day 13
 ### What are ZK EVMs, part 3: Proving systems
 Week 4, more than half of the bootcamp.
 
@@ -30,7 +29,7 @@ Common commitment schemes are:
 Check [this video](https://www.youtube.com/watch?v=bz16BURH_u8) to find out more.
 
 Cool slide from the video:
-![PCS comparison](media/pcscomp.png)
+![PCS comparison](../media/pcscomp.png)
 
 #### Interactive Oracle Proofs
 Check [this](https://youtu.be/bGEXYpt3sj0?list=PLS01nW3Rtgor_yJmQsGBZAg5XM4TSGpPs&t=3920)

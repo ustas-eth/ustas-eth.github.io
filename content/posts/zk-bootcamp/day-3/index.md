@@ -1,9 +1,8 @@
 ---
 title: "Day 3"
-weight: 3
+weight: 103
 ---
 
-## Day 3
 ### Introduction to L2
 I've been assigned to group number 5, which has ten members in total! At the start of the lesson, we split up into groups (but didn't do anything specific).
 
@@ -18,7 +17,7 @@ Different implementations of zkEVM thus use different approaches:
 
 The challenge of zkEVM is to make a proof of execution in EVM while the math is different, and you cannot just use the code of EVM. Developers have to describe every possible interaction between the EVM components (see the picture).
 
-![The EVM architecture](media/evm.png)
+![The EVM architecture](../media/evm.png)
 
 #### Data availability (DA)
 Possible solutions are:

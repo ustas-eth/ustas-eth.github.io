@@ -1,6 +1,7 @@
 ---
 title: "Contracts"
 weight: 8
+date: "2024-04-01T00:00:00.000Z"
 ---
 
 We've covered the object a little in the previous articles, so you should already be quite familiar with it.

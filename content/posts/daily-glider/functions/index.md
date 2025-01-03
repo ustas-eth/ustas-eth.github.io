@@ -1,6 +1,7 @@
 ---
 title: "Functions"
 weight: 6
+date: "2024-03-28T00:00:00.000Z"
 ---
 
 The second element in the declarative part's [hierarchy](../boosting-declarative-part#boosting-the-declarative-part), `Functions`.

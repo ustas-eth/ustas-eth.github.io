@@ -1,9 +1,8 @@
 ---
 title: "Day 23"
-weight: 23
+weight: 123
 ---
 
-## Day 23
 ### Presentation by Ye from Scroll
 Scroll is one of the most popular zk-rollups on Ethereum.
 
@@ -26,11 +25,11 @@ All this is possible because Plonkish allows the use of lookup tables (for the f
 
 #### Constraints
 To generalize the execution of a transaction in zkEVM, Scroll has metadata for every opcode of an execution.
-![Execution Trace](media/scrollexec.png)
+![Execution Trace](../media/scrollexec.png)
 
 #### Architecture
 Scroll zkEVM is made from multiple circuits, similar to zkSync and other rollups.
-![Scroll Architecture](media/scrollarch.png)
+![Scroll Architecture](../media/scrollarch.png)
 
 #### Aggregation
 zkEVM circuit is computation-heavy, so Scroll similarly to zkSync, and Linea is using a two-layer proving system:

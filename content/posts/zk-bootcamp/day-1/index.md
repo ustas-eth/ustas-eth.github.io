@@ -1,9 +1,8 @@
 ---
 title: "Day 1"
-weight: 1
+weight: 101
 ---
 
-## Day 1
 ### The introduction
 There were several speakers from Encode, zkSync, and Extropy. The interesting parts for me were:
 1. A structured overview of the problems that crypto and blockchain solve:

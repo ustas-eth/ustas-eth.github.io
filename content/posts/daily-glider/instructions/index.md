@@ -1,6 +1,7 @@
 ---
 title: "Instructions"
 weight: 7
+date: "2024-03-29T00:00:00.000Z"
 ---
 
 `Instructions` and its twin `Instruction` are perhaps the most complex objects in Glider, with the most methods, because they represent the never-ending combinations of Solidity calls, calculations, variable assignments, conditions, etc.

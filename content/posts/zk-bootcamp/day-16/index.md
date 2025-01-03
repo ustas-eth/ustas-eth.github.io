@@ -1,9 +1,8 @@
 ---
 title: "Day 16"
-weight: 16
+weight: 116
 ---
 
-## Day 16
 ### SNARK implementation
 As mentioned on [Day 13](#day-13), SNARKs comprise a probabilistic proof and a commitment scheme. They usually require a setup where we establish a) the program that will be proved and b) some randomness.
 

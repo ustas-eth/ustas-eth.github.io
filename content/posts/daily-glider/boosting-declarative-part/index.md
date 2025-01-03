@@ -1,6 +1,7 @@
 ---
 title: "Boosting the declarative part"
 weight: 4
+date: "2024-03-26T00:00:00.000Z"
 ---
 
 The declarative DB query is so much more than just the `Contracts` object!

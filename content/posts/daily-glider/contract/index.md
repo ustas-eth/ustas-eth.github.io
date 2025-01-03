@@ -1,6 +1,7 @@
 ---
 title: "Contract"
 weight: 10
+date: "2024-04-03T00:00:00.000Z"
 ---
 
 Now that we're done with the easy stuff, let's dive into complex arbitrary code. From top to bottom, we'll start with the `Contract` object.
@@ -113,6 +114,6 @@ def query():
 
 ```
 
-> Don't forget to add `.exec()` after these methods because they return `Contracts` too. It's the same as with the declarative query in the beggining of glides, you can change the limit and the offset or add more filtration and descend to functions/instructions.
+> Don't forget to add `.exec()` after these methods because they return `Contracts` too. It's the same as with the declarative query in the beginning of glides, you can change the limit and the offset or add more filtration and descend to functions/instructions.
 
 

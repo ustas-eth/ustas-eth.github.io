@@ -1,6 +1,7 @@
 ---
 title: "Handy Scripts and SQL Queries"
 weight: 15
+date: "2024-08-26T00:00:00.000Z"
 ---
 
 I've made a couple of queries to help you find valuable contracts in the Glider output because it can be lengthy.

@@ -1,13 +1,12 @@
 ---
 title: "Day 19"
-weight: 19
+weight: 119
 ---
 
-## Day 19
 ### Plonk, part 2: Boojum
 #### Customizable Constraint Systems
 An interesting and new concept of generalization of the usual constraint systems:
-![CCS](media/ccs.png)
+![CCS](../media/ccs.png)
 
 #### [Plonky2](https://github.com/0xPolygonZero/plonky2)
 It is a library by Polygon that allows us to create SNARKs with PLONK and FRI.

@@ -1,9 +1,8 @@
 ---
 title: "Day 9"
-weight: 9
+weight: 109
 ---
 
-## Day 9
 ### What's next in L2, part 2: L3s/Hyperchains
 #### ZoKrates
 Finally! ZK practice! Haha 🏴‍☠️
@@ -19,7 +18,7 @@ I've spent part of the lesson discussing with Greg and Coogan. My perspective on
 #### Interoperability of L2s
 One of the attractive ideas currently present is to avoid L1 when interacting between different L2 and instead send messages directly. Laurence outlined this is more complicated with Optimistic rollups like Arbitrum and Optimism.
 
-![Direct interaction](media/directinteraction.png)
+![Direct interaction](../media/directinteraction.png)
 
 For example, the blockchains built on OP Stack (like Optimism and Base) are supposed to have this kind of interaction between them. I guess the costs of such interactions will be similar to L2 fees.
 

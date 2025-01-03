@@ -1,6 +1,7 @@
 ---
 title: "Instruction"
 weight: 12
+date: "2024-04-05T00:00:00.000Z"
 ---
 
 The last of the trio, `Instruction`, is another huge class with 44 methods in total + 5 from its child classes (there will be more!). This here is where you'll spend most of your time when you write complex glides, trying to generalize the way your code processes different combinations of Solidity instructions expressed through the Glider's objects.

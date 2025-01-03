@@ -1,9 +1,8 @@
 ---
 title: "Day 5"
-weight: 5
+weight: 105
 ---
 
-## Day 5
 ### Rust
 In the first part of the lesson, we've covered some common topics like Cargo, enums, `match`, `Option`, etc., in Rust synaxis, which you can find in any popular guide.
 
@@ -26,11 +25,11 @@ How we differentiate L2s (from https://ethereum.org/en/layer-2/):
 Check out more on L2Beat: https://l2beat.com/scaling/summary
 *(and donate on GitCoin, they're good guys!)*
 
-![Top 10 L2s](media/top10.png)
+![Top 10 L2s](../media/top10.png)
 
 Back in 2020, we ran monolithic rollups but later realized they could be separated into several layers:
 
-![OP Stack](media/opstack.png)
+![OP Stack](../media/opstack.png)
 Check each layer here: https://stack.optimism.io/docs/understand/landscape/
 
 - We usually use Ethereum to store data for DA because it has established security, but we're not limited in this regard. We can use a different storage, but it'll have other security assumptions.

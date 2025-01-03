@@ -1,6 +1,7 @@
 ---
 title: "Limit and Offset"
 weight: 2
+date: "2024-03-23T00:00:00.000Z"
 ---
 
 Let's take the query from the [previous article](../get-started) and change the name we're searching for to something more useful:

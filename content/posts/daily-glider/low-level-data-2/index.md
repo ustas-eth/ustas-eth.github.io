@@ -1,6 +1,7 @@
 ---
 title: "Low-Level Data (part 2)"
 weight: 14
+date: "2024-04-09T00:00:00.000Z"
 ---
 
 <p>UPD. The property was deprecated</p>

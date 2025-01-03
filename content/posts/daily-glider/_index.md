@@ -24,3 +24,5 @@ If you're already familiar with smart contracts in general, I'd suggest you to:
 4. Try to run and see how it works
 
 Otherwise, start with [this awesome repo](https://github.com/OffcierCia/DeFi-Developer-Road-Map)!
+
+> Last sync with [the repo](https://github.com/ustas-eth/daily-glider/): d728d31e1b7adc33060d46bc473acc3334afab44.

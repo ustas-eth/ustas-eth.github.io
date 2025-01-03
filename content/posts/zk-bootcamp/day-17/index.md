@@ -1,9 +1,8 @@
 ---
 title: "Day 17"
-weight: 17
+weight: 117
 ---
 
-## Day 17
 ### STARK implementation
 STARKs, as was mentioned before, don't have toxic waste. This means we can make a transparent setup quick and easy. Also, they are quantum secure, but it is more like a nice topping. The fundamental security assumption of a STARK is a collision-resistant hash function, a well-known cryptographic primitive.
 

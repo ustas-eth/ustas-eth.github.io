@@ -1,13 +1,12 @@
 ---
 title: "Day 2"
-weight: 2
+weight: 102
 ---
 
-## Day 2
 ### Why scalability
 Laurence from Entropy made some key points about Layer 1 solutions:
 - History of the classic scalability problem. This is the main problem that various L1 and L2 blockchains are trying to solve: having scalability, decentralization and security at the same time.
-![Scalability Trilemma](media/trilemma.png)
+![Scalability Trilemma](../media/trilemma.png)
 - TPS measures and marketing. Context is important when you see advertised parameters like TPS, because they vary widely in different contexts and may not be achievable in reality.
 - Popular blockchains like Ethereum and Bitcoin are much slower than traditional payment systems like Visa. While it is a fact, I think blockchains theoretically have more potential than traditional systems because they have more computing power.
 - Sequential and parallel transaction processing. The simplified systems with sequential ordering of transactions like Ethereum introduce problems like MEV and poor horizontal scaling. Parallel processing can solve them, but it is much more complex.

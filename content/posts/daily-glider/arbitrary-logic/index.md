@@ -1,6 +1,7 @@
 ---
 title: "Arbitrary Logic"
 weight: 3
+date: "2024-03-25T00:00:00.000Z"
 ---
 
 We're continuing to modify the glide:

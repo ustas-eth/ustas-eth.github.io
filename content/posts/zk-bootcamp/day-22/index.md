@@ -1,9 +1,8 @@
 ---
 title: "Day 22"
-weight: 22
+weight: 122
 ---
 
-## Day 22
 ### Presentation by Iryna from RISC Zero
 RISC Zero is a zkVM system that can run general-purpose verifiable code.
 
@@ -19,7 +18,7 @@ Two main parts from the developer's perspective are:
 1. Guest code, which is a Rust program, is being compiled into RISC-V ELF binary.
 2. Host code then takes the binary and inputs and generates a receipt.
 3. The receipt can be sent to a Verifier to check whether the execution was correct.
-![zkVM Architecture](media/zkvmarch.png)
+![zkVM Architecture](../media/zkvmarch.png)
 
 #### Code example
 You can see one in Homework 22. It's quite easy to set up. Check out [the Hello World tutorial](https://dev.risczero.com/api/zkvm/tutorials/hello-world) if you want to complete it yourself.

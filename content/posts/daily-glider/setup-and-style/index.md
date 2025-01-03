@@ -1,6 +1,7 @@
 ---
 title: "Setup and Writing Style"
 weight: 9
+date: "2024-04-02T00:00:00.000Z"
 ---
 
 Today, we will talk about the maintainability of your glides.

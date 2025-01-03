@@ -1,9 +1,8 @@
 ---
 title: "Day 12"
-weight: 12
+weight: 112
 ---
 
-## Day 12
 ### What are ZK EVMs, part 2: Universal circuits/circuit compiler
 EVM is a stack-based virtual machine. For example, if we want to add two numbers, 3 and 9, we first need to push them onto the stack and then call `ADD` opcode:
 ```asm

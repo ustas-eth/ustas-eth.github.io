@@ -1,6 +1,7 @@
 ---
 title: "Function"
 weight: 11
+date: "2024-04-04T00:00:00.000Z"
 ---
 
 Good day to learn about the `Function` methods, isn't it? `Function` is the second of our fundamental trio. It can be used to:

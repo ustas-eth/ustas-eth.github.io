@@ -1,9 +1,8 @@
 ---
 title: "Day 4"
-weight: 4
+weight: 104
 ---
 
-## Day 4
 ### Math and Cryptography
 Today, we continued the previous talk about the underlying math, perhaps the most challenging part of ZKP.
 
@@ -30,19 +29,19 @@ We can represent polynomials in two forms:
 
 Complexity theory studies the time or space requirements to solve problems based on input size. Problems can be classified based on the time required to find a solution, and the time needed grows with the size of the input n.
 
-![Complexity classes](media/complexity.png)
+![Complexity classes](../media/complexity.png)
 
 "Everything provable is provable in zero knowledge" (careful, very long paper):
 https://dl.acm.org/doi/pdf/10.5555/88314.88333
 
 Big O describes the complexity of some code using algebraic terms.
 
-![Big O](media/bigo.png)
+![Big O](../media/bigo.png)
 
 #### Zero Knowledge Proof
 Comparison of different ZKP systems:
 
-![ZKP Comparison](media/zkpcomparison.png)
+![ZKP Comparison](../media/zkpcomparison.png)
 
 Check out another post of mine: https://hey.xyz/posts/0x8218-0x02a1
 

@@ -1,9 +1,8 @@
 ---
 title: "Day 8"
-weight: 8
+weight: 108
 ---
 
-## Day 8
 ### SNARK overview
 **S**uccinct **N**on-interactive **A**rgument of **K**nowledge
 
@@ -31,5 +30,5 @@ General process of SNARK system creation:
 3. Convert it to a polynomial or some kind of relation that acts similar
 4. Make it non-interactive
 
-![ZKP components by Mary Maller](media/zkcomponents.png)
+![ZKP components by Mary Maller](../media/zkcomponents.png)
 
