@@ -4,6 +4,8 @@ ShowRssButtonInSectionTermList: false
 aliases: ["/about"]
 ---
 
+#### Hello, it's /ʲustɑs/
+
 Quick bio:
 21 years old. Originally from Lviv, Ukraine. I speak English, Ukrainian, Russian, a little Portuguese and Spanish.
 

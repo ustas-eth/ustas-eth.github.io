@@ -44,10 +44,10 @@ params:
     buttons:
       - name: Posts
         url: "/posts"
-      - name: Github
-        url: "https://github.com/ustas-eth/"
+      - name: Links
+        url: "/contact"
 
-  ShareButtons: ["linkedin", "twitter", "reddit", "telegram", "ycombinator", "warpcast", "lens"]
+  ShareButtons: ["linkedin", "twitter", "reddit", "telegram", "warpcast", "lens"]
   production: true
 
   title: Ustas Mind
