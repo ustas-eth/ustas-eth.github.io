@@ -51,7 +51,7 @@ params:
   production: true
 
   title: Ustas Mind
-  description: The insides of me
+  description: A personal blog on various topics
 
   twitter: ustas_eth
   github: ustas-eth
