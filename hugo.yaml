@@ -28,9 +28,13 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
+    - identifier: about
       name: About
       url: /about-me/
+      weight: 10
+    - identifier: contacts
+      name: Contacts
+      url: /contacts/
       weight: 10
 
 params:
@@ -43,9 +47,9 @@ params:
     imageHeight: 120
     buttons:
       - name: Posts
-        url: "/posts"
+        url: "/posts/"
       - name: Links
-        url: "/contact"
+        url: "/contacts/"
 
   ShareButtons: ["linkedin", "twitter", "reddit", "telegram", "warpcast", "lens"]
   production: true
